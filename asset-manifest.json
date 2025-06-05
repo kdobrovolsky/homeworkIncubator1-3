@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kdobrovolsky.github.io/homework_incubator/static/css/main.e79eba33.css",
+    "main.js": "/kdobrovolsky.github.io/homework_incubator/static/js/main.0e5a982f.js",
+    "static/js/787.975d6fc7.chunk.js": "/kdobrovolsky.github.io/homework_incubator/static/js/787.975d6fc7.chunk.js",
+    "static/media/avatar.png": "/kdobrovolsky.github.io/homework_incubator/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/kdobrovolsky.github.io/homework_incubator/index.html",
+    "main.e79eba33.css.map": "/kdobrovolsky.github.io/homework_incubator/static/css/main.e79eba33.css.map",
+    "main.0e5a982f.js.map": "/kdobrovolsky.github.io/homework_incubator/static/js/main.0e5a982f.js.map",
+    "787.975d6fc7.chunk.js.map": "/kdobrovolsky.github.io/homework_incubator/static/js/787.975d6fc7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e79eba33.css",
+    "static/js/main.0e5a982f.js"
+  ]
+}
